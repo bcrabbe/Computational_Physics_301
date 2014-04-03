@@ -1,7 +1,10 @@
 benCrabbe-computationalPhysicsEx1
 =================================
 
-3rd year Computational Physics assignment.
+3rd year Computational Physics assignments.
 
-The task is detailed in Exercise1-2014.pdf,the programs were written to solve these problems, 
-and a report analysing the results is included.
+Exercise 1 - numerical matrix inversion algorithms.
+Exercise 2 - numerical solutions to partial differential equations.
+Exercise 3 - methods and applications of random variable transformations.
+
+For each exercise there is the problem we were set, a number of programs I wrote to solve these problems, and a report written by meself explaining and analysing the solutions.
